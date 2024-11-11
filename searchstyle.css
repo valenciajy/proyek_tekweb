@@ -1,0 +1,69 @@
+/* body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #111;
+    color: #fff;
+    overflow: hidden;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+main {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.particle-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.particle {
+    position: absolute;
+    background-color: #fff;
+    border-radius: 50%;
+    animation: particleAnimation 10s linear infinite;
+}
+
+.search-results {
+    list-style: none;
+    padding: 2em;
+    text-align: center;
+    z-index: 1;
+    position: relative;
+}
+
+.search-results li {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeInUp 0.5s ease-in-out forwards;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes particleAnimation {
+    to {
+        transform: translateX(-50%) translateY(-50%) scale(2);
+        opacity: 0;
+    }
+} */

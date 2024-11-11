@@ -1,0 +1,44 @@
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color:#e26274;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 2em;
+}
+
+.book {
+    display: flex;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 1em;
+    margin: 1em;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 550px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+}
+
+.book img {
+    max-width: 100px; 
+    height: auto;
+    margin-right: 1em;
+}
+
+.book-details {
+    flex: 1;
+} */
